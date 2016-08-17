@@ -1,0 +1,26 @@
+{
+  "name": "angular-rip-api-oauth",
+  "description": "AngularJS module to integrate OAuth 1 to RIP API",
+  "version": "0.1.0",
+  "main": "angular-rip-api-oauth.js",
+  "ignore": [
+    "sample",
+    "src",
+    "test",
+    ".bowerrc",
+    ".coveralls.yml",
+    ".gitignore",
+    ".jshintrc",
+    ".travis.yml",
+    "bower.json",
+    "package.json",
+    "README.md"
+  ],
+  "dependencies": {
+    "angular": ">=1.2.30",
+    "angular-rip-api": ">=0.2.0",
+    "oauth-signature": ">=1.3.1"
+  },
+  "devDependencies": {
+  }
+}
